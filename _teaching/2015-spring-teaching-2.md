@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Head Teaching Assistant for ECON 302"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+#type: "Workshop"
+#permalink: /teaching/2015-spring-teaching-1
+venue: "University of Illinois at Urbana-Champaign (UIUC), Department"
+date: Fall 2022 - Present
 location: "City, Country"
 ---
 
