@@ -1,7 +1,7 @@
 ---
 title: "Head Teaching Assistant for ECON 302"
 collection: teaching
-#type: "Workshop"
+type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Illinois at Urbana-Champaign (UIUC), Department of Economics"
 date: Fall 2022 - Present
