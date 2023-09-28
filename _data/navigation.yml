@@ -1,5 +1,13 @@
 # main links links
 main:
+
+  - title: "CV"
+    url: /files/cv_velentzas.pdf
+
+  - title: "Professional Experience"
+    url: /portfolio/
+
+
   - title: "Academic Research"
     url: /publications/
 
@@ -9,14 +17,12 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /files/cv_velentzas.pdf
+
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
