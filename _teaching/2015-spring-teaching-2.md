@@ -1,8 +1,7 @@
 ---
-title: "Head Teaching Assistant for ECON 302"
+title: "Head Teaching Assistant for ECON 302 Intermediate Microeconomics"
 collection: teaching
-type: ""
-permalink: #/teaching/2015-spring-teaching-1
+type: "Undergraduate Course"
 venue: "University of Illinois at Urbana-Champaign (UIUC), Department of Economics"
 date: 2022-01-01 
 location: "City, Country"
