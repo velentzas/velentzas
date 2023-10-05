@@ -2,7 +2,7 @@
 title: "Teaching Assistant for ECON 102 Microeconomic Principles"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2014-spring-teaching-1
+[comment]: <> permalink: /teaching/2014-spring-teaching-1
 venue: "University of Illinois at Urbana-Champaign (UIUC), Department of Economics"
 date: 2019-01-01
 location: "City, Country"
