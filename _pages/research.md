@@ -3,7 +3,9 @@ title: "Research"
 permalink: /research/
 ---
 
-## Economic Performance and Electoral Outcomes: The Political Business Cycle Deconstructed, with George Deltas and Konstantinos Kourtikakis 
+### Economic Performance and Electoral Outcomes: The Political Business Cycle Deconstructed, with [George Deltas](http://faculty.las.illinois.edu/deltas/) and Konstantinos Kourtikakis 
+
+Economic Performance and Electoral Outcomes: The Political Business Cycle Deconstructed, with [George Deltas](http://faculty.las.illinois.edu/deltas/) and Konstantinos Kourtikakis 
 
 ## The Spread of Political Ideas: Eurosceptic Contagion and its Electoral Impact, with George Deltas and Konstantinos Kourtikakis
 
