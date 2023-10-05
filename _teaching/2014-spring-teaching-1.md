@@ -11,12 +11,8 @@ location: "City, Country"
 [comment]: <> This is a description of a teaching experience. You can use markdown like any other post.
 
 
+- Led weekly discussion sections for 150 students (on average)
+- Proofread and graded exams
+- Supported students in understanding foundational microeconomic concepts
+- List of Teachers ranked as excellent by their students (Fall 2019, Spring 2020, Fall 2020, Spring 2021)
 
-[comment]: <>Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

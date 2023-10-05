@@ -10,12 +10,10 @@ location: "City, Country"
 
 [comment]: <> This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
--Task
 
-Heading 2
-======
-
-Heading 3
-======
+- Managed a team of 3 graduate teaching assistants for a class of 250 students
+- Held weekly discussion sections for 70 students (on average)
+- Developed and facilitated tutorials and exams
+- Produced weekly teaching plans and performance reports
+- Collaborated with the instructor to refine course materials and content
+- List of Teachers ranked as excellent by their students (Fall 2022)
