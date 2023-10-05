@@ -8,10 +8,10 @@ main:
     url: /portfolio/
 
 
-  - title: "Academic Research"
-    url: /publications/
+  # - title: "Academic Research"
+  #   url: /publications/
 
-  - title: "Research"
+  - title: "Academic Research"
     url: /research/
 
   # - title: "Talks"
