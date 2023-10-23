@@ -7,7 +7,9 @@ main:
   - title: "Professional Experience"
     url: /portfolio/
 
-
+  - title: "Professional Experience 2"
+    url: /professional/
+    
   # - title: "Academic Research"
   #   url: /publications/
 
