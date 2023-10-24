@@ -14,7 +14,7 @@ In the professional realm, I gained valuable experience as an Economist Intern a
 
 *As I near the completion of my doctoral studies, I am actively seeking opportunities in the private sector where I can apply my expertise and make a meaningful impact combining economics and data.*
 
-Feel free to get in touch with me via [email](mailto:velentzastheodoros@gmail.com) or follow me on my social media accounts to stay updated on my academic and professional journey.
+Feel free to get in touch with me via [email](mailto:velentzastheodoros@gmail.com) or follow me on my social media accounts ([LinkedIn](https://www.linkedin.com/in/theodoros-velentzas/) and [Twitter](https://twitter.com/theo_velentzas)) to stay updated on my academic and professional journey.
 
 <!-- Welcome to my website to explore more about my academic and professional journey. -->
 
