@@ -1,5 +1,5 @@
 ---
-title: "Professional Experience 2"
+title: "Professional Experience"
 permalink: /professional/
 ---
 

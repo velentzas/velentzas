@@ -4,12 +4,12 @@ main:
   - title: "CV"
     url: /files/cv_velentzas.pdf
 
-  - title: "Professional Experience"
-    url: /portfolio/
+  # - title: "Professional Experience"
+  #   url: /portfolio/
 
-  - title: "Professional Experience 2"
+  - title: "Professional Experience"
     url: /professional/
-    
+
   # - title: "Academic Research"
   #   url: /publications/
 
