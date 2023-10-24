@@ -15,4 +15,4 @@ In Summer 2022, I had the privilege of interning as an Economist for Redfin’s 
 
 [Housing Market Analysis of the U.S. metropolitan areas](https://www.redfin.com/news/housing-markets-cooling-fastest-bay-area-2022/)
 
-- Covered by [CNBC](https://www.cnbc.com/2022/07/12/us-real-estate-markets-that-are-cooling-the-fastest.html){: .btn--research}, [Forbes](https://www.forbes.com/sites/brendarichardson/2022/08/04/housing-markets-that-show-signs-of-cooling-down-or-heating-up/?sh=368c725b1cd5){: .btn--research}, [Money.com](https://money.com/cities-housing-market-cooling-fastest/){: .btn--research}
+- Covered by [CNBC](https://www.cnbc.com/2022/07/12/us-real-estate-markets-that-are-cooling-the-fastest.html){: .btn--research} [Forbes](https://www.forbes.com/sites/brendarichardson/2022/08/04/housing-markets-that-show-signs-of-cooling-down-or-heating-up/?sh=368c725b1cd5){: .btn--research} [Money.com](https://money.com/cities-housing-market-cooling-fastest/){: .btn--research}
