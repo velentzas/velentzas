@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- The website is under construction.  -->
 
-I am a PhD candidate in Economics at the University of Illinois at Urbana-Champaign, expecting to graduate in May 2024. My academic journey has equipped me with expertise in areas such as Applied Microeconometrics, Political Economy, and Labor Economics. During my studies, I've been engaged in research, exploring topics ranging from economic performance and electoral outcomes to labor market dynamics.
+I am a PhD candidate in Economics at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), expecting to graduate in May 2024. My academic journey has equipped me with expertise in areas such as Applied Microeconometrics, Political Economy, and Labor Economics. During my studies, I've been engaged in research, exploring topics ranging from economic performance and electoral outcomes to labor market dynamics.
 
 In the professional realm, I gained valuable experience as an Economist Intern at Redfin, where I conducted data analysis and econometric modeling to support research projects. 
 
