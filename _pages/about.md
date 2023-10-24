@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 <br>
-  
+
 I am a PhD candidate in Economics at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), expecting to graduate in May 2024. My academic journey has equipped me with expertise in areas such as Applied Microeconometrics, Political Economy, and Labor Economics. During my graduate studies, I've been engaged in research, exploring topics ranging from economic performance and electoral outcomes to labor market dynamics. 
 
 In the professional realm, I gained valuable experience as an Economist Intern at [Redfin](https://www.redfin.com/), where I conducted data analysis and econometric modeling to support research projects. 
 
 *As I near the completion of my doctoral studies, I am actively seeking opportunities in the private sector where I can apply my expertise and make a meaningful impact combining economics and data.*
 
-Feel free to get in touch with me via [email](mailto:velentzastheodoros@gmail.com) or follow me on my [LinkedIn](https://www.linkedin.com/in/theodoros-velentzas/) and [Twitter](https://twitter.com/theo_velentzas) to stay updated on my academic and professional journey.
+Feel free to get in touch with me via [email](mailto:velentzastheodoros@gmail.com) or follow me on [LinkedIn](https://www.linkedin.com/in/theodoros-velentzas/) and [Twitter](https://twitter.com/theo_velentzas) to stay updated on my academic and professional journey.
 
 <!-- Welcome to my website to explore more about my academic and professional journey. -->
 
