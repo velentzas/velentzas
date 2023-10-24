@@ -12,7 +12,7 @@ I am a PhD candidate in Economics at the [University of Illinois at Urbana-Champ
 
 In the professional realm, I gained valuable experience as an Economist Intern at [Redfin](https://www.redfin.com/), where I conducted data analysis and econometric modeling to support research projects. 
 
-As I near the completion of my doctoral studies, I am actively seeking opportunities in the private sector where I can apply my expertise and make a meaningful impact.
+*As I near the completion of my doctoral studies, I am actively seeking opportunities in the private sector where I can apply my expertise and make a meaningful impact.*
 
 Welcome to my website to explore more about my academic and professional journey.
 
