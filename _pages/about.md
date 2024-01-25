@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! My name is Theodoros Velentzas and this is my personal website."
+title: "Theodoros Velentzas | Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
