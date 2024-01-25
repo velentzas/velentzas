@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Theodoros Velentzas | Personal Website"
+title: "Theodoros Velentzas - Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br>
 
-I am a PhD candidate in Economics at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), expecting to graduate in May 2024. My academic journey has equipped me with expertise in areas such as Applied Microeconometrics, Political Economy, and Labor Economics. During my studies, I've been engaged in research, exploring topics ranging from economic performance and electoral outcomes to labor market dynamics. Before my doctorate studies, I completed my BSc in Economics at the [University of Macedonia](https://www.uom.gr/en) in Greece, graduating in June 2018.
+Hello! My name is Theodoros Velentzas and I am a PhD candidate in Economics at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), expecting to graduate in May 2024. My academic journey has equipped me with expertise in areas such as Applied Microeconometrics, Political Economy, and Labor Economics. During my studies, I've been engaged in research, exploring topics ranging from economic performance and electoral outcomes to labor market dynamics. Before my doctorate studies, I completed my BSc in Economics at the [University of Macedonia](https://www.uom.gr/en) in Greece, graduating in June 2018.
 
 In the professional realm, I gained valuable experience as an Economist Intern at [Redfin](https://www.redfin.com/), where I conducted data analysis and econometric modeling to support research projects. 
 
